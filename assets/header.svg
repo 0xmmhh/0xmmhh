@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 118" width="860" height="118" role="img" aria-label="whoami: Maciej, I like terminal apps. Web apps too, sometimes.">
+  <style>
+    .t{font:15px 'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace;fill:#d5dce5}
+    .d{fill:#6c7a8c}.p{fill:#4fd1c5}.b{fill:#5b9dff;font-weight:700}
+    .l1{opacity:0;animation:show .01s .7s forwards}
+    .l2{opacity:0;animation:show .01s 1.5s forwards}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes show{to{opacity:1}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.l1,.l2{animation:none;opacity:1}.cur{animation:none}}
+  </style>
+  <rect width="860" height="118" rx="10" fill="#12161d" stroke="#2b3442"/>
+  <circle cx="22" cy="20" r="6" fill="#ff6b6b"/>
+  <circle cx="42" cy="20" r="6" fill="#f5c451"/>
+  <circle cx="62" cy="20" r="6" fill="#7ee787"/>
+  <text x="430" y="25" text-anchor="middle" class="t d" font-size="13">~ — zsh</text>
+  <text x="24" y="64" class="t"><tspan class="p">❯</tspan> whoami</text>
+  <text x="24" y="92" class="t l1"><tspan class="b">Maciej</tspan><tspan class="d">  ·  </tspan>I like terminal apps. <tspan class="d">Web apps too, sometimes.</tspan></text>
+  <text x="550" y="92" class="t l2"><tspan class="cur">█</tspan></text>
+</svg>
