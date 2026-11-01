@@ -39,5 +39,5 @@ It's in alpha and help is welcome: [help wanted](https://github.com/0xmmhh/graft
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-Maciej%20Hawrot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/maciejhawrot/"><img src="https://img.shields.io/badge/LinkedIn-Maciej%20Hawrot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
