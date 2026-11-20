@@ -10,6 +10,7 @@
 
 An animated git TUI: merge, stage, commit, stash, switch and undo, and see the real `git` commands as they run.
 
+[![website: graftui.app](https://img.shields.io/badge/website-graftui.app-16a34a?style=flat-square)](https://graftui.app)
 ![status: alpha](https://img.shields.io/badge/status-alpha-orange?style=flat-square)
 ![C# .NET 10](https://img.shields.io/badge/C%23-.NET%2010-512BD4?style=flat-square)
 ![Terminal.Gui v2](https://img.shields.io/badge/Terminal.Gui-v2-2ea44f?style=flat-square)
