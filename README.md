@@ -6,7 +6,7 @@
 
 <table><tr><td>
 
-### [graftui](https://graftui.app/)
+### [graftui.app](https://graftui.app/) — animated git TUI ([GitHub](https://github.com/0xmmhh/graftui))
 
 An animated git TUI: merge, stage, commit, stash, switch and undo, and see the real `git` commands as they run.
 
